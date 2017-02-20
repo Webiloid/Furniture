@@ -1,0 +1,27 @@
+{
+  "name": "furniture",
+  "version": "0.0.0",
+  "description": "Furniture shop",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Webiloid/Furniture.git"
+  },
+  "keywords": [
+    "Furniture",
+    "Shop",
+    "Site"
+  ],
+  "author": "Dranitsyn Evgeniy, Dianov Vladislav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Webiloid/Furniture/issues"
+  },
+  "homepage": "https://github.com/Webiloid/Furniture#readme",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}
